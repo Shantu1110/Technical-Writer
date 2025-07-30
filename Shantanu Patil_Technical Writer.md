@@ -1,3 +1,3 @@
-# Shantnau Patil
+# Shantanu Patil
 
 Lets do it!!!
