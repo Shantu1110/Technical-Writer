@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a dedicated technical writer with 3 years of e
 - **Documentation Tools:** Arbortext Editor, CREO View, Adobe Acrobat
 - **Version Control:** Git, GitHub
 - **Formats:** PDF, Word, collaborative platforms
-- **Research:** Technical research, SME interviews, process documentation, engineering drawings and change notices
+- **Research:** Technical research, process documentation, engineering drawings and change notices
 
 ## 💼 Freelance Services
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a dedicated technical writer with 3 years of e
 
 ### **My Process**
 1. **Discovery** - Understanding your requirements and objectives
-2. **Research** - Gathering information through SME interviews and analysis
+2. **Research** - Gathering information from SMEs and analysis
 3. **Structure** - Creating logical, user-friendly document architecture
 4. **Draft & Review** - Iterative writing with stakeholder feedback
 5. **Delivery** - Final documentation with source files and guidelines
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a dedicated technical writer with 3 years of e
 
 ## 📞 Let's Work Together
 
-I'm available for freelance technical writing projects of all sizes. Whether you need comprehensive documentation, API guides, or help structuring existing content, I'm here to help.
+I'm available for freelance technical writing projects of all sizes. Whether you need comprehensive documentation, guides, or help structuring existing content, I'm here to help.
 
 ### **Contact Information**
 - 📧 Email: [shantanupatil354@gmail.com]
