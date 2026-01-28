@@ -3,20 +3,19 @@
 [shantanupatil354@gmail.com](shantanupatil354@gmail.com) | [Linkdin](www.linkedin.com/in/shantanu-patil) 
   
 ## Professional Summary
-Experienced **Technical Writer** with over **2 years** of expertise in **DITA XML** and structured authoring. Skilled in **creating, managing, and reviewing technical documentation**, including engineering drawings, change notices, and service manuals.  
-Adept at collaborating with **Subject Matter Experts (SMEs)** to ensure accuracy and clarity in technical manuals. Proficient in compliance with **industry standards, documentation best practices**, and process optimization to enhance efficiency.  
+Dynamic Technical Writer with 3 years of experience in software, industrial and aerospace sectors, specializing in creating user-centric documentation using DITA XML, STE, and S1000D standards. Proven ability to reduce support queries through clear instructional manuals and improve document accuracy via rigorous proofreading and compliance checks.  
 
 ## Experience
 **Technical Writer** | **Larsen & Toubro Technology Services**  
-*July 2024 – Present*
+*July 2024 – Jan 2026*
 * Developed **15+ service manuals**, improving documentation accuracy by **20%**.
-* Reviewed and edited technical manuals to enhance **consistency, clarity, and compliance**.
-* Analysed and interpreted **Engineering Drawings and Change Notices** to ensure precise documentation.
-* Maintained version control and ensured adherence to **industry documentation standards** using **CMS tools**.
-* Conducted **in-depth analysis of technical documents**, identifying and resolving inconsistencies that increased document accuracy by 25%.
-* Created **step-by-step assembly, maintenance, and troubleshooting manuals**, improving user efficiency.
-* Demonstrated **strong problem-solving skills** by troubleshooting legacy documentation issues and creating efficient solutions that improved traceability and reusability.
-* **Tools Used:** Arbortext Editor, Windchill, JED, Adobe FrameMaker, Creo View, MS Word and MS Excel.
+* Authored user guides, APIs, instructional and service manuals for JLG Industries, enhancing user experience and reducing support queries.
+* Interpreted Engineering Drawings and Change Notices to produce precise, error-free documentation.
+* Maintained version control using CMS tools, improving document traceability.
+* Led development of comprehensive instructional manuals, boosting operational efficiency.
+* Proofread and edited documentation to ensure clarity and regulatory compliance.
+* Conducted document analysis to resolve inconsistencies, increasing accuracy.
+* Created step-by-step procedures, maintenance, and troubleshooting guides.
 
 **Technical Writer** | **Cyient Ltd.**  
 *Nov 2022 - July 2024*
@@ -28,17 +27,31 @@ Adept at collaborating with **Subject Matter Experts (SMEs)** to ensure accuracy
 * Specialized in **procedural and descriptive writing** to enhance document clarity.
 * **Tools Used:** Arbortext Editor 6.0 (SGML), MS Office, Adobe Professional tools, ARDOS, PLIP.
 
-## Skills and Tools
+## Technical Skills
 ### Technical Tools
 - DITA XML, Structured and Unstructured Authoring
-- Simplified Technical English (STE), Technical Content Development
+- Simplified Technical English (STE)
+- SDLC and DDLC
+- Technical Content Development
 ### Tools and Software
-- Arbortext Editor (8.1), Winfchill, Adobe Acrobat, Adobe Framemaker, Creo View, JED.
-- MS Word, MS Excel and GItHub.
+- Arbortext Editor, Oxygen XML Editor, Adobe FrameMaker
+- Markdown and Confluence
+- Windchill and GitHub
+- Cero View, JED, PLIP Database, ARDOS
+- Microsoft Office
 ### Soft Skils
 - Cross functional team collaboration
-- Writing,, Editing and proofreading
-- Attention to Detail and Process Improvement
+- Writing, Editing and Proofreading
+- Attention to Detail 
+- Process Improvement
+
+## Skills & Abilities
+* Collaborative Team Player – Strong team spirit with a proactive approach to group success and shared goals.
+* Customer Retention Expertise – Skilled in maintaining long-term client relationships through consistent support and value delivery.
+* Excellent Communication – Clear and effective communicator with strong interpersonal skills across diverse teams and stakeholders.
+* Calm Under Pressure – Maintains composure and productivity in high-pressure or deadline- driven environments.
+* Positive & Energetic Attitude – Brings enthusiasm and a can-do mindset to every task and team interaction.
+* Cross-Product Experience – Adept at working with multiple product lines and customer requirements simultaneously.
 
 ## Education
 ### Aircraft Maintenance Engineering (B1,1 - Mechanical)
