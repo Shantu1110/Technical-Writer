@@ -23,7 +23,7 @@ The Samsung Galaxy S24 FE is a powerful, budget-friendly smartphone that deliver
 
 ### Key Features
 
-![Overview](C:\Users\Shantanu Patil\OneDrive\Desktop\ShantuCV\Technical-Writer\Images\1.png)
+![Alt Overview](Images/1.png)
 
 #### Display
 - **Screen Size:** 6.5-inch Dynamic AMOLED display
@@ -31,7 +31,7 @@ The Samsung Galaxy S24 FE is a powerful, budget-friendly smartphone that deliver
 - **Refresh Rate:** 90Hz for smooth scrolling and animations
 - **HDR Support:** Enhanced color and contrast for multimedia content
 
-![Display](C:\Users\Shantanu Patil\OneDrive\Desktop\ShantuCV\Technical-Writer\Images\4.png)
+![Display](Images/4.png)
 
 #### Camera System
 - **Rear Camera:** 50MP main sensor with OIS (Optical Image Stabilization)
@@ -39,7 +39,7 @@ The Samsung Galaxy S24 FE is a powerful, budget-friendly smartphone that deliver
 - **Front Camera:** 20MP for selfies and video calls
 - **Video Recording:** 4K at 60fps with stabilization
 
-![Camera](C:\Users\Shantanu Patil\OneDrive\Desktop\ShantuCV\Technical-Writer\Images\2.png)
+![Camera](Images/2.png)
 
 #### Performance
 - **Processor:** Samsung Exynos 2400
@@ -48,7 +48,7 @@ The Samsung Galaxy S24 FE is a powerful, budget-friendly smartphone that deliver
 - **Battery:** 4,050mAh with 25W fast charging
 - **Operating System:** Android 14 with Samsung One UI 6
 
-![performance](C:\Users\Shantanu Patil\OneDrive\Desktop\ShantuCV\Technical-Writer\Images\3.png)
+![performance](Images/3.png)
 
 #### Connectivity
 - **5G Support:** Ultra-fast download and upload speeds
@@ -76,7 +76,7 @@ The Samsung Galaxy S24 FE is a powerful, budget-friendly smartphone that deliver
    - SIM ejector tool
    - Quick Start Guide
 
-![Inside the box](C:\Users\Shantanu Patil\OneDrive\Desktop\ShantuCV\Technical-Writer\Images\6.png)
+![Inside the box](Images/6.png)
 
 ### Initial Power-On
 
