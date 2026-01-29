@@ -48,8 +48,8 @@ I'm available for freelance technical writing projects of all sizes. Whether you
 ### **Contact Information**
 - 📧 Email: [shantanupatil354@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/shantanu-patil-7b2665235]
-- 📱 Phone: [7249386506]
-- 🌍 Location: [Mumbai]
+- 📱 Phone: [+917249386506]
+- 🌍 Location: [Pune]
 
 ### **Project Inquiry**
 When reaching out, please include:
