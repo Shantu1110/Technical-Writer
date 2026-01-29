@@ -7,15 +7,14 @@ Welcome to my GitHub profile! I'm a dedicated technical writer with 3 years of e
 ### **Documentation Types**
 - Technical manuals and user guides
 - Service Manuals
-- Standard Operating Procedures (SOPs)
-- Training materials and tutorials
+- API Documents
 - Installation and maintenance guides
 
 ### **Technical Skills**
-- **Documentation Tools:** Arbortext Editor, CREO View, Adobe Acrobat
+- **Documentation Tools:** Arbortext Editor, Oxygen XML Author, Adobe Framemaker, CREO View, Adobe Acrobat
 - **Version Control:** Git, GitHub
 - **Formats:** PDF, Word, collaborative platforms
-- **Research:** Technical research, process documentation, engineering drawings and change notices
+- **Research:** Technical Research, Process Documentation, Engineering Drawings and Change Notices
 
 ## 💼 Freelance Services
 
