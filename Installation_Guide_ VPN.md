@@ -56,7 +56,7 @@ After installation and signing in, you need to configure the VPN settings.
 2. Choose the required server location based on specific country and better speed.
 3. Click Connect.
 
--**Choosing a Connection Protocol**
+- **Choosing a Connection Protocol**
 Most VPN apps select the best protocol automatically. If manual selection is required:
 
 1. Open the Settings or Preferences menu.
